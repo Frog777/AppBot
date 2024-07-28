@@ -41,6 +41,12 @@ data(){
                 {name:"Цезарь",price:550,count:0,total:550},
                 {name:"Ветчина",price:250,count:0,total:250},
                 {name:"Грибы",price:400,count:0,total:400},],
+
+                [{name:"Чикен",price:450,count:0,total:450},
+                {name:"Говяжий",price:350,count:0,total:350},
+                {name:"С курицей",price:550,count:0,total:550},
+                {name:"С индейкой",price:250,count:0,total:250},
+                {name:"с Грибы",price:400,count:0,total:400},],
             ],
         
         
